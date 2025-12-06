@@ -1,4 +1,27 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=WORK+IN+PROGRESS+.............+;Still+Working+on+this+!!!;SEE+YOU+ON+THE+OTHER+SIDE+UPDATE)](https://github.com/CP-BOTS/Url-uploader)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=WORK+IN+PROGRESS+.............+;Still+Working+on+this+!!!)](https://github.com/CP-BOTS/Url-uploader)
+
+
+<div align="center">
+
+<img src="assets/logo.png" alt="Project Logo" width="160"/>
+
+# Face_Recognition — Lightweight AI Access Control
+**Motion-triggered, edge-optimized face recognition for turnstiles & CCTV.**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=WORK+IN+PROGRESS+.............+;Still+Working+on+this+!!!)](https://github.com/yourusername/Face_Recognition)
+
+<br/>
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/Face_Recognition?style=for-the-badge)](https://github.com/yourusername/Face_Recognition/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)]
+[![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge)]
+
+<br/>
+
+<a href="#features"><strong>➡️ Get started — Installation & Usage</strong></a>
+</div>
+
+
 
 ALL CREDITS GOES TO THE BELOVED [DEVELOPER](https://github.com/prgofficial) :)
 
